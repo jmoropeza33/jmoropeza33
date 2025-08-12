@@ -3,12 +3,16 @@
 </h1>
 
 <p align="center">
+  📧 <b>josemanuelorog@gmail.com</b>
+</p>
+
+<p align="center">
   <b>Estudiante de Ingeniería en Informática, apasionado por la tecnología y el desarrollo de software</b>
 </p>
 
-- 🎓 Actualmente estudiando **Ingeniería en Informática** 6to semestre en la Universidad Catolica Andrés Bello. Caracas, Venezuela.
+- 🎓 Actualmente estudiando **Ingeniería en Informática** (6to semestre) en la Universidad Católica Andrés Bello, Caracas, Venezuela.
 - 📚 Me encanta aprender nuevas tecnologías y mejorar mis habilidades día a día.
-- 💻 Interesado en **Desarrollo Web** y **Bases de Datos** .
+- 💻 Interesado en **Desarrollo Web** y **Bases de Datos**.
 
 ---
 
@@ -49,9 +53,6 @@
 
 <h2>Conecta conmigo</h2>
 <p align="center">
-  <a href="mailto:josemanuelorog@gmail.com">
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40"/></code>
-  </a>
   <a href="https://www.linkedin.com/in/jose-manuel-oropeza-gallardo-860381208/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/></code>
   </a>
