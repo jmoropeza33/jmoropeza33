@@ -52,13 +52,13 @@
 <h2>Conecta conmigo</h2>
 <p align="center">
   <a href="mailto:josemanuelorog@gmail.com">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40"/></code>
   </a>
   <a href="https://www.linkedin.com/in/jose-manuel-oropeza-gallardo-860381208/" target="_blank">
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/></code>
   </a>
   <a href="https://www.instagram.com/jmoropeza33" target="_blank">
-    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40"/></code>
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/></code>
   </a>
 </p>
 
