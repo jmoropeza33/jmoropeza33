@@ -22,8 +22,8 @@
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/csharp.svg" alt="C#" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/sql.svg" alt="SQL" height="40"/></code>
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/cs.svg" alt="C#" height="40"/></code>
 </p>
 
 <p align="center">
@@ -38,14 +38,13 @@
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/dotnet.svg" alt=".NET" height="40"/></code>
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="Node.js" height="40"/></code>
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="Express.js" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/websocket.svg" alt="WebSocket" height="40"/></code>
 </p>
 
 <p align="center">
   <b>Bases de Datos</b>
   <br><br>
   <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/mongodb.svg" alt="MongoDB" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/sql.svg" alt="SQL" height="40"/></code>
+  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/postgresql.svg" alt="PostgreSQL" height="40"/></code>
 </p>
 
 <p align="center">
@@ -58,6 +57,12 @@
 
 <h2>Conecta conmigo</h2>
 <p align="center">
+  <a href="mailto:josemanuelorog@gmail.com">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/gmail.svg" alt="Gmail" height="30" width="40"/></code>
+  </a>
+  <a href="https://www.linkedin.com/in/jose-manuel-oropeza-gallardo-860381208/" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linkedin.svg" alt="LinkedIn" height="30" width="40"/></code>
+  </a>
   <a href="https://www.instagram.com/jmoropeza33" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="Instagram" height="30" width="40"/></code>
   </a>
