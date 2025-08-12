@@ -1,16 +1,14 @@
 <h1 align="center">
-  Hola, soy José Moropeza
+  Hola, soy José Oropeza
 </h1>
 
 <p align="center">
   <b>Estudiante de Ingeniería en Informática, apasionado por la tecnología y el desarrollo de software</b>
 </p>
 
-- 🎓 Actualmente estudiando **Ingeniería en Informática**.
+- 🎓 Actualmente estudiando **Ingeniería en Informática** 6to semestre en la Universidad Catolica Andrés Bello. Caracas, Venezuela.
 - 📚 Me encanta aprender nuevas tecnologías y mejorar mis habilidades día a día.
-- 💻 Interesado en **Desarrollo Web**, **Bases de Datos** y **Ciberseguridad**.
-- 🚀 Siempre abierto a colaborar en **proyectos Open Source** y trabajos en equipo.
-- ⭐ Si algo te gusta de mis repositorios, ¡un star siempre se agradece! 😄
+- 💻 Interesado en **Desarrollo Web** y **Bases de Datos** .
 
 ---
 
@@ -63,5 +61,5 @@
 </p>
 
 <p align="right">
-  <em>José Moropeza</em>
+  <em>José Oropeza</em>
 </p>
