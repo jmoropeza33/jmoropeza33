@@ -19,38 +19,32 @@
 <p align="center">
   <b>Lenguajes</b>
   <br><br>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/cs.svg" alt="C#" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40"/></code>
 </p>
 
 <p align="center">
   <b>Frontend</b>
   <br><br>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/vue.svg" alt="Vue.js" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="40"/></code>
 </p>
 
 <p align="center">
   <b>Backend</b>
   <br><br>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/dotnet.svg" alt=".NET" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="Node.js" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="Express.js" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="40"/></code>
 </p>
 
 <p align="center">
   <b>Bases de Datos</b>
   <br><br>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/mongodb.svg" alt="MongoDB" height="40"/></code>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/postgresql.svg" alt="PostgreSQL" height="40"/></code>
-</p>
-
-<p align="center">
-  <b>Otras herramientas</b>
-  <br><br>
-  <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/jsreports.svg" alt="JS Reports" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40"/></code>
 </p>
 
 ---
@@ -58,13 +52,13 @@
 <h2>Conecta conmigo</h2>
 <p align="center">
   <a href="mailto:josemanuelorog@gmail.com">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/gmail.svg" alt="Gmail" height="30" width="40"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/></code>
   </a>
   <a href="https://www.linkedin.com/in/jose-manuel-oropeza-gallardo-860381208/" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linkedin.svg" alt="LinkedIn" height="30" width="40"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/></code>
   </a>
   <a href="https://www.instagram.com/jmoropeza33" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="Instagram" height="30" width="40"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40"/></code>
   </a>
 </p>
 
